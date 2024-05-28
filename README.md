@@ -2,14 +2,14 @@
 
 Website Link: http://95.130.171.20/~st21360859029/
 
-How to run this project in your personal computer;
+By following these steps, you can run this project on your personal computer.
 
-1) You have to use XAMPP to run this project in your computer. If you don't have XAMPP, here is the download link: https://www.apachefriends.org/download.html
-2) Open XAMPP then Start Apache and MySQL.
-3) Click explore, open your htdocs folder and create a new folder in there.
-4) Click Code on repository and by pressing Download ZIP, download the project.
-5) Open the ZIP folder and transfer the files to the folder you created in the htdocs.
-6) In XAMMP press the Admin button next to MySQL, it must open phpMyAdmin, press Import and import the marketdatabase.sql folder.
-7) In XAMMP press the Admin button next to Apache, it must open localhost in your browser, choose the folder you created in the htdocs and you are ready to use the website in your computer.
+1) Download and Install XAMPP. If you don't have XAMPP, you can download it from: https://www.apachefriends.org/download.html
+2) Open XAMPP and start both Apache and MySQL.
+3) Click "Explore" in XAMPP, open the htdocs folder, and create a new folder there.
+4) Click "Code" on the repository page and select "Download ZIP" to download the project.
+5) Extract the ZIP file and transfer the files to the folder you created in htdocs.
+6) In XAMPP, click the "Admin" button next to MySQL to open phpMyAdmin, click on "Import" and import the marketdatabase.sql file.
+7) In XAMPP, click the "Admin" button next to Apache, which will open localhost in your browser, select the folder you created in htdocs and start using the website on your computer.
 
 Project Video: 
