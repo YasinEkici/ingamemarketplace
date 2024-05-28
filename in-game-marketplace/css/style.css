@@ -1,0 +1,150 @@
+.jumbotron {
+    border-radius: 0.3rem;
+    background-color: #ffffff;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+    padding: 2rem 1rem;
+  }
+  
+  .btn-lg {
+    font-size: 1.25rem;
+    padding: 0.5rem 1rem;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  .card {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+    border: none;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin-top: 1rem;
+    border-radius: 8px;
+    border-radius: 10px;
+  }
+  
+  .footer {
+    bottom: 0;
+    position: fixed;
+    background-color: #f8f9fa;
+    width: 100%;
+    padding: 1rem 0;
+  }
+  
+  .badge-info {
+    padding: 0.5em 1em;
+    color: #fff;
+    background-color: #17a2b8;
+    border-radius: 0.25em;
+  }
+  
+  .register-container {
+    margin-top: 100px;
+  }
+  
+  .btn-primary {
+    border: none;
+    background-color: #4a90e2;
+    background-color: #007bff;
+  }
+  
+  .card-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #4a4a4a;
+    color: #333;
+  }
+  
+  .container {
+    margin-top: 50px;
+    margin-top: 30px;
+    max-width: 900px;
+  }
+  
+  .nav-link {
+    color: #555;
+    border: none;
+    border-radius: 0;
+    border: 1px solid #007bff;
+    color: #007bff;
+    padding: 10px 20px;
+  }
+  
+  .active {
+    border: none;
+    background-color: #007bff;
+    border-bottom: 2px solid #007bff;
+    color: white;
+    font-weight: bold;
+    color: #007bff;
+    background-color: transparent;
+  }
+  
+  .form-inline {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+  }
+  
+  .form-control {
+    flex: 1;
+    margin-right: 10px;
+  }
+  
+  .badge-success {
+    background-color: #28a745;
+  }
+  
+  .mt-5 {
+    margin-top: 3rem !important;
+  }
+  
+  .mt-3 {
+    margin-top: 1rem !important;
+  }
+  
+  .mt-4 {
+    margin-top: 1.5rem !important;
+  }
+  
+  .card-body {
+    padding: 30px;
+  }
+  
+  .nav-tabs {
+    border-bottom: 2px solid #007bff;
+  }
+  
+  .tab-pane {
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-top: none;
+    background: #fff;
+  }
+  
+  .search-section {
+    padding: 20px;
+    margin-top: 30px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  .nav-tabs .nav-link {
+    border: 1px solid #007bff;
+    border-radius: 0;
+    color: #007bff;
+    padding: 10px 20px;
+  }
+
+  .nav-tabs .nav-link.active {
+    background-color: #007bff;
+    color: white;
+  }
+	
+  .nav-link-dashboard {
+    border-radius: 0;
+    padding: 10px 20px;
+    color: #555;
+}
