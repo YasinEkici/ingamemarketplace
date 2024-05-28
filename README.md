@@ -12,4 +12,4 @@ By following these steps, you can run this project on your personal computer.
 6) In XAMPP, click the "Admin" button next to MySQL to open phpMyAdmin, click on "Import" and import the marketdatabase.sql file.
 7) In XAMPP, click the "Admin" button next to Apache, which will open localhost in your browser, select the folder you created in htdocs and start using the website on your computer.
 
-Project Video: 
+Project Video: https://youtu.be/dsrKTFoCtdw
