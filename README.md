@@ -13,3 +13,9 @@ By following these steps, you can run this project on your personal computer.
 7) In XAMPP, click the "Admin" button next to Apache, which will open localhost in your browser, select the folder you created in htdocs and start using the website on your computer.
 
 Project Video: https://youtu.be/jtfe4DWoOHg
+
+Project Features;
+1) Users can register and log in.
+2) Users can add, edit, delete the items they want to sell.
+3) Users can costumize their personal info.
+4) In the Marketplace section, users can examine and purchase items other than their own.
